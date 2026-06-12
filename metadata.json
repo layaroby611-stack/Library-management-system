@@ -1,0 +1,6 @@
+{
+  "name": "Library Admin Dashboard",
+  "description": "A high-performance modern dashboard for managing library book collections, student records, and loan circulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
